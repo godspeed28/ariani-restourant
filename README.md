@@ -26,7 +26,7 @@
 
 ## 🧰 Teknologi yang Digunakan
 
-- **PHP** (Native / Framework seperti CodeIgniter)
+- **PHP** (Native)
 - **MySQL** (Database)
 - **HTML5**, **CSS3**, **JavaScript**
 - **Bootstrap** (Tampilan responsif)
